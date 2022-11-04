@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Worldle React
+
+Recreating the NYT game but in React, and with tailwind in order to get familiar with it.
 
 ## Getting Started
 
