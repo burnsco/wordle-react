@@ -12,6 +12,7 @@ const Home: NextPage = () => {
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
         <h1 className="text-6xl font-bold">Wordle React</h1>
+        <h3 className="my-2 text-2xl">lets learn some stuff</h3>
       </main>
 
       <footer className="flex h-24 w-full items-center justify-center border-t">
